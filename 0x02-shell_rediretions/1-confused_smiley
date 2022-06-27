@@ -1,2 +1,2 @@
-#!/bin/bsh
-eho "\"(Ôo)'"
+#!/bin/bash
+echo "\"(Ôo)'"
